@@ -8,13 +8,13 @@
 
 ## Concept Bottleneck Models
 
-[Concept Bottleneck Models](https://proceedings.mlr.press/v119/koh20a.html) (ICML 2020)
+[Concept Bottleneck Models](https://proceedings.mlr.press/v119/koh20a.html)  (ICML 2020)
 
-[Now You See Me (CME): Concept-based Model Extraction](http://mlg.eng.cam.ac.uk/adrian/AIMLAI20-CME.pdf) (CIKM 2020)
+[Now You See Me (CME): Concept-based Model Extraction ](http://mlg.eng.cam.ac.uk/adrian/AIMLAI20-CME.pdf) (CIKM 2020)
 
-[Concept whitening for interpretable image recognition](https://www.nature.com/articles/s42256-020-00265-z) (NMI 2020)
+[Concept whitening for interpretable image recognition](https://www.nature.com/articles/s42256-020-00265-z)  (NMI 2020)
 
-[Towards Automatic Concept-based Explanations](http://papers.neurips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) （NIPS 2019）
+[Towards Automatic Concept-based Explanations](http://papers.neurips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) (NIPS 2019)
 
 [Concept Bottleneck Model with Additional Unsupervised Concepts](https://ieeexplore.ieee.org/iel7/6287639/9668973/09758745.pdf)
 
