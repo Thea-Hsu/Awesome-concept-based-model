@@ -8,11 +8,9 @@
 
 [Concept Bottleneck Models](https://proceedings.mlr.press/v119/koh20a.html)  (ICML 2020)
 
-[Now You See Me (CME): Concept-based Model Extraction ](http://mlg.eng.cam.ac.uk/adrian/AIMLAI20-CME.pdf) (CIKM 2020 workshop)
+[Now You See Me (CME): Concept-based Model Extraction ](http://mlg.eng.cam.ac.uk/adrian/AIMLAI20-CME.pdf) (CIKM 2020 Workshop)
 
 [Concept whitening for interpretable image recognition](https://www.nature.com/articles/s42256-020-00265-z)  (NMI 2020)
-
-[Towards Automatic Concept-based Explanations](http://papers.neurips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) (NIPS 2019)
 
 [Concept Bottleneck Model with Additional Unsupervised Concepts](https://ieeexplore.ieee.org/iel7/6287639/9668973/09758745.pdf) (IEEE Access 2022)
 
@@ -38,8 +36,6 @@
 
 [ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective](https://arxiv.org/pdf/2204.01888)
 
-[Debiasing Concept-based Explanations with Causal Analysis](https://arxiv.org/abs/2007.11500)
-
 [Encoding Concepts in Graph Neural Networks](http://arxiv.org/abs/2207.13586)
 
 [Cause and Effect: Concept-based Explanation of Neural Networks](https://ieeexplore.ieee.org/document/9658985)
@@ -60,6 +56,12 @@
 
 [Catastrophic Forgetting in Continual Concept Bottleneck Models](https://link.springer.com/chapter/10.1007/978-3-031-13324-4_46)
 
+### History 
+
+[Rethinking the Inception Architecture for Computer Vision](https://www.computer.org/csdl/proceedings-article/cvpr/2016/8851c818/12OmNvrMUfG) (CVPR 2016)
+
+[Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644) (ICLR 2017 Workshop)
+
 ### Transformer
 
 [ATTENTION-BASED INTERPRETABILITY WITH CONCEPT TRANSFORMERS](https://openreview.net/forum?id=kAa9eDS0RdO) (ICLR 2022)
@@ -70,8 +72,39 @@
 
 [Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice](https://link.springer.com/article/10.1007/s11023-022-09598-7) (Minds and Machines 2022)
 
+[Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/pdf/2011.12854.pdf) (CVPR 2021) 
+
+```
+**_NOTE_**: First order logic, slot attention
+```
+
+### Causal
+
+[Debiasing Concept-based Explanations with Causal Analysis](https://openreview.net/pdf?id=6puUoArESGp) (ICLR 2021)
+
 ### Concept Generation
 
 [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://dl.acm.org/doi/10.5555/3298023.3298212) (AAAI 2017)
 
+[Towards Automatic Concept-based Explanations](http://papers.neurips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) (NIPS 2019)
+
 [Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) (ICLR 2023 Under review)
+
+### Concept Vector
+
+[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://proceedings.mlr.press/v80/kim18d/kim18d.pdf) (ICML 2018)
+
+### Human
+
+[Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models](https://ieeexplore.ieee.org/document/9552218) (TVCG 2021)
+
+
+
+## Related Links
+
+[awesome-machine-learning-*interpretability* ](https://github.com/jphall663/awesome-machine-learning-interpretability)
+
+[Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+
+[Awesome Explanatory Supervision](https://github.com/stefanoteso/awesome-explanatory-supervision)
+
