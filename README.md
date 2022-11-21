@@ -38,7 +38,9 @@
 
 [ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective](https://arxiv.org/pdf/2204.01888)
 
-[Debiasing Concept-based Explanations with Causal Analysis](https://arxiv.org/abs/2007.11500)[Encoding Concepts in Graph Neural Networks](http://arxiv.org/abs/2207.13586)[Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) (ICLR 2023 Under review)
+[Debiasing Concept-based Explanations with Causal Analysis](https://arxiv.org/abs/2007.11500)
+
+[Encoding Concepts in Graph Neural Networks](http://arxiv.org/abs/2207.13586)
 
 [Cause and Effect: Concept-based Explanation of Neural Networks](https://ieeexplore.ieee.org/document/9658985)
 
@@ -68,5 +70,8 @@
 
 [Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice](https://link.springer.com/article/10.1007/s11023-022-09598-7) (Minds and Machines 2022)
 
+### Concept Generation
 
+[ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://dl.acm.org/doi/10.5555/3298023.3298212) (AAAI 2017)
 
+[Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) (ICLR 2023 Under review)
