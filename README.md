@@ -32,6 +32,8 @@
 
 [From "Where" to "What": Towards Human-Understandable Explanations through Concept Relevance Propagation](https://arxiv.org/abs/2206.03208)
 
+`Note: Concept Relevance Propagation.`
+
 [Toward a Unified Framework for Debugging Concept-based Models](https://arxiv.org/abs/2109.11160)
 
 [ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective](https://arxiv.org/pdf/2204.01888)
@@ -74,9 +76,7 @@
 
 [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/pdf/2011.12854.pdf) (CVPR 2021) 
 
-```
-**_NOTE_**: First order logic, slot attention
-```
+`Note: First order logic, slot attention.`
 
 ### Causal
 
