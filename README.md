@@ -38,27 +38,27 @@
 
 [Toward a Unified Framework for Debugging Concept-based Models](https://arxiv.org/abs/2109.11160) (AAAI 2022 Workshop on Interactive Machine Learning)
 
-[ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective](https://arxiv.org/pdf/2204.01888) ()
+[ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective](https://arxiv.org/pdf/2204.01888) (TVCG 2022)
 
 [Encoding Concepts in Graph Neural Networks](http://arxiv.org/abs/2207.13586)
 
-[Cause and Effect: Concept-based Explanation of Neural Networks](https://ieeexplore.ieee.org/document/9658985)
+[Cause and Effect: Concept-based Explanation of Neural Networks](https://ieeexplore.ieee.org/document/9658985) (ICSMC 2021)
 
-[Is Disentanglement all you need? Comparing Concept-based & Disentanglement Approaches](https://arxiv.org/abs/2104.06917)
+[Is Disentanglement all you need? Comparing Concept-based & Disentanglement Approaches](https://arxiv.org/abs/2104.06917) (ICLR 2021 RobustML Workshop)
 
-[Overlooked factors in concept-based explanations: Dataset choice, concept salience, and human capability](http://arxiv.org/abs/2207.09615)
+[Overlooked factors in concept-based explanations: Dataset choice, concept salience, and human capability](http://arxiv.org/abs/2207.09615) 
 
-[A Framework for Learning Ante-hoc Explainable Models via Concepts](https://arxiv.org/abs/2108.11761)
+[A Framework for Learning Ante-hoc Explainable Models via Concepts](https://arxiv.org/abs/2108.11761) (CVPR 2022)
 
-[Algorithmic Concept-based Explainable Reasoning](https://arxiv.org/abs/2107.07493)
+[Algorithmic Concept-based Explainable Reasoning](https://arxiv.org/abs/2107.07493) (AAAI 2022)
 
 [Best of both worlds: local and global explanations with human-understandable concepts](https://arxiv.org/abs/2106.08641)
 
 [Rationalization through Concepts](https://aclanthology.org/2021.findings-acl.68.pdf)
 
-[Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/abs/2106.13314)
+[Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/abs/2106.13314) (ICML 2021 Workshops)
 
-[Catastrophic Forgetting in Continual Concept Bottleneck Models](https://link.springer.com/chapter/10.1007/978-3-031-13324-4_46)
+[Catastrophic Forgetting in Continual Concept Bottleneck Models](https://link.springer.com/chapter/10.1007/978-3-031-13324-4_46) (ICIAP 2022 Workshops)
 
 ### History 
 
