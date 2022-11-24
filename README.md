@@ -16,27 +16,29 @@
 
 [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/file/ecb287ff763c169694f682af52c1f309-Paper.pdf) (NIPS 2020)
 
-[Interpretable Image Classification with Differentiable Prototypes Assignment](https://arxiv.org/abs/2112.02902)
+[Interpretable Image Classification with Differentiable Prototypes Assignment](https://arxiv.org/abs/2112.02902) (ECCV 2022)
 
-[Do Concept Bottleneck Models Learn as Intended](https://arxiv.org/abs/2105.04289)
+[Do Concept Bottleneck Models Learn as Intended](https://arxiv.org/abs/2105.04289) (ICLR 2021 Workshop on Responsible AI)
 
 [Contextual Explanation Networks](https://openreview.net/forum?id=HJUOHGWRb) (JMLR 2020)
 
-[Interpretability Beyond Classification Output: Semantic Bottleneck Networks](https://arxiv.org/abs/1907.10882)
+[Contextual Semantic Interpretability](https://openaccess.thecvf.com/content/ACCV2020/papers/Marcos_Contextual_Semantic_Interpretability_ACCV_2020_paper.pdf) (ACCV 2020)
 
-[Concept Gradient: Concept-based Interpretation Without Linear Assumption](https://openreview.net/forum?id=_01dDd3f78)
+[Semantic Bottlenecks: Quantifying and Improving Inspectability of Deep Representations](https://link.springer.com/article/10.1007/s11263-021-01498-0) (IJCV 2021) (arxiv version: [Interpretability Beyond Classification Output: Semantic Bottleneck Networks](https://arxiv.org/abs/1907.10882))
 
-[ConceptDistil: Model-Agnostic Distillation of Concept Explanations](https://arxiv.org/abs/2205.03601)
+[Concept Gradient: Concept-based Interpretation Without Linear Assumption](https://openreview.net/forum?id=_01dDd3f78) (ICLR 2023 Under review)
 
-[Automatic Concept Extraction for Concept Bottleneck-based Video Classification](https://arxiv.org/abs/2206.10129)
+[ConceptDistil: Model-Agnostic Distillation of Concept Explanations](https://arxiv.org/abs/2205.03601) (ICLR 2022 PAIR2Struct Workshop)
+
+[Automatic Concept Extraction for Concept Bottleneck-based Video Classification](https://arxiv.org/abs/2206.10129) 
 
 [From "Where" to "What": Towards Human-Understandable Explanations through Concept Relevance Propagation](https://arxiv.org/abs/2206.03208)
 
 `Note: Concept Relevance Propagation.`
 
-[Toward a Unified Framework for Debugging Concept-based Models](https://arxiv.org/abs/2109.11160)
+[Toward a Unified Framework for Debugging Concept-based Models](https://arxiv.org/abs/2109.11160) (AAAI 2022 Workshop on Interactive Machine Learning)
 
-[ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective](https://arxiv.org/pdf/2204.01888)
+[ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective](https://arxiv.org/pdf/2204.01888) ()
 
 [Encoding Concepts in Graph Neural Networks](http://arxiv.org/abs/2207.13586)
 
