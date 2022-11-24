@@ -98,6 +98,10 @@
 
 [Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models](https://ieeexplore.ieee.org/document/9552218) (TVCG 2021)
 
+### NLP
+
+[Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf)
+
 
 
 ## Related Links
