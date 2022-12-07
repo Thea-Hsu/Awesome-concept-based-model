@@ -96,6 +96,8 @@
 
 [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://proceedings.mlr.press/v80/kim18d/kim18d.pdf) (ICML 2018)
 
+[Meaningfully Debugging Model Mistakes using Conceptual Counterfactual Explanations](https://proceedings.mlr.press/v162/abid22a.html) (ICML 2022)
+
 ### Human
 
 [Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models](https://ieeexplore.ieee.org/document/9552218) (TVCG 2021)
@@ -103,6 +105,12 @@
 ### NLP
 
 [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf)
+
+
+
+### Dataset
+
+[SkinCon: A skin disease dataset densely annotated by domain experts for fine-grained model debugging and analysis](https://openreview.net/pdf?id=gud0qopqJc4) (NIPS 2022)
 
 
 
