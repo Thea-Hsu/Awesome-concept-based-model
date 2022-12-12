@@ -90,7 +90,7 @@
 
 [Towards Automatic Concept-based Explanations](http://papers.neurips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) (NIPS 2019)
 
-[Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) (ICLR 2023 Under review)
+[Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) (ICLR2022 workshop, ICLR 2023 Under review)
 
 ### Concept Vector
 
@@ -102,11 +102,15 @@
 
 [Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models](https://ieeexplore.ieee.org/document/9552218) (TVCG 2021)
 
+[Concept-level Debugging of Part-Prototype Networks](https://openreview.net/forum?id=oiwXWPDTyNk) (KDD 2022 workshop, ICLR 2023 Under review)
+
 ### NLP
 
 [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification](https://arxiv.org/pdf/2211.11158.pdf)
 
+### GNN
 
+[Global Explainability of GNNs via Logic Combination of Learned Concepts](https://openreview.net/forum?id=OTbRTIY4YS) (ICLR 2023 Under review)
 
 ### Dataset
 
