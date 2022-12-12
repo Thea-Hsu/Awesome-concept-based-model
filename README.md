@@ -66,6 +66,8 @@
 
 [Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644) (ICLR 2017 Workshop)
 
+[Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/pdf/1806.07538.pdf) (NIPS 2018)
+
 ### Transformer
 
 [ATTENTION-BASED INTERPRETABILITY WITH CONCEPT TRANSFORMERS](https://openreview.net/forum?id=kAa9eDS0RdO) (ICLR 2022)
@@ -91,6 +93,8 @@
 [Towards Automatic Concept-based Explanations](http://papers.neurips.cc/paper/9126-towards-automatic-concept-based-explanations.pdf) (NIPS 2019)
 
 [Post-hoc Concept Bottleneck Models](https://arxiv.org/abs/2205.15480) (ICLR2022 workshop, ICLR 2023 Under review)
+
+[Learning Interpretable Concept Groups in CNNs](https://www.ijcai.org/proceedings/2021/0147.pdf) (IJCAI 2021)
 
 ### Concept Vector
 
