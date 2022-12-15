@@ -16,8 +16,6 @@
 
 [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/file/ecb287ff763c169694f682af52c1f309-Paper.pdf) (NIPS 2020)
 
-[Interpretable Image Classification with Differentiable Prototypes Assignment](https://arxiv.org/abs/2112.02902) (ECCV 2022)
-
 [Do Concept Bottleneck Models Learn as Intended](https://arxiv.org/abs/2105.04289) (ICLR 2021 Workshop on Responsible AI)
 
 [Contextual Explanation Networks](https://openreview.net/forum?id=HJUOHGWRb) (JMLR 2020)
@@ -106,7 +104,13 @@
 
 [Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models](https://ieeexplore.ieee.org/document/9552218) (TVCG 2021)
 
+### Prototype
+
+[This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf) (NIPS 2019)
+
 [Concept-level Debugging of Part-Prototype Networks](https://openreview.net/forum?id=oiwXWPDTyNk) (KDD 2022 workshop, ICLR 2023 Under review)
+
+[Interpretable Image Classification with Differentiable Prototypes Assignment](https://arxiv.org/abs/2112.02902) (ECCV 2022)
 
 ### NLP
 
