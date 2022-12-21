@@ -38,8 +38,6 @@
 
 [ConceptExplainer: Interactive Explanation for Deep Neural Networks from a Concept Perspective](https://arxiv.org/pdf/2204.01888) (TVCG 2022)
 
-[Encoding Concepts in Graph Neural Networks](http://arxiv.org/abs/2207.13586)
-
 [Cause and Effect: Concept-based Explanation of Neural Networks](https://ieeexplore.ieee.org/document/9658985) (ICSMC 2021)
 
 [Is Disentanglement all you need? Comparing Concept-based & Disentanglement Approaches](https://arxiv.org/abs/2104.06917) (ICLR 2021 RobustML Workshop)
@@ -57,6 +55,8 @@
 [Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/abs/2106.13314) (ICML 2021 Workshops)
 
 [Catastrophic Forgetting in Continual Concept Bottleneck Models](https://link.springer.com/chapter/10.1007/978-3-031-13324-4_46) (ICIAP 2022 Workshops)
+
+[Visual Concept Reasoning Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16995) (AAAI 2021)
 
 ### History 
 
@@ -106,6 +106,8 @@
 
 ### Prototype
 
+[Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://ojs.aaai.org/index.php/AAAI/article/view/11771) (AAAI 2018)
+
 [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://proceedings.neurips.cc/paper/2019/file/adf7ee2dcf142b0e11888e72b43fcb75-Paper.pdf) (NIPS 2019)
 
 [Concept-level Debugging of Part-Prototype Networks](https://openreview.net/forum?id=oiwXWPDTyNk) (KDD 2022 workshop, ICLR 2023 Under review)
@@ -119,6 +121,16 @@
 ### GNN
 
 [Global Explainability of GNNs via Logic Combination of Learned Concepts](https://openreview.net/forum?id=OTbRTIY4YS) (ICLR 2023 Under review)
+
+[Encoding Concepts in Graph Neural Networks](http://arxiv.org/abs/2207.13586)
+
+### Weakly Supervised
+
+[Weakly Supervised Multi-task Learning for Concept-based Explainability](https://arxiv.org/abs/2104.12459) (ICLR 2021 Workshop on Weakly Supervised Learning (WeaSuL))
+
+### Few Shot
+
+[Concept learners for few-shot learning](https://arxiv.org/abs/2007.07375) (ICLR 2021)
 
 ### Dataset
 
